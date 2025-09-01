@@ -66,9 +66,7 @@
   <ul>
    <li>
     <a href="#sshconfig">
-     <code>
-      .ssh/config
-     </code>
+     <code>.ssh/config</code>
     </a>
    </li>
    <li>
@@ -165,9 +163,7 @@
  Apps
 </h2>
 <h3>
- <code>
-  .ssh/config
- </code>
+ <code>.ssh/config</code>
 </h3>
 <ul>
  <li>
